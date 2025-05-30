@@ -62,13 +62,13 @@ These traces are indexed by vector similarity and used for future resonance retr
 ---
 
 ## 🔄 Retrieval & Reuse Pipeline
-	1.	**User prompt arrives**
-	2.	**Partial inference starts** — Aspen captures early activations
-	3.	**Search activation DB** — find similar past traces
-	4.	**Score results** — rank for contextual relevance
-	5.	**Select top N memories**
-	6.	**Generate recall scaffolds** — e.g., *“Last time this happened, you did X…”*
-	7.	**Inject memory note into prompt** as structured guidance
+1.	**User prompt arrives**
+2.	**Partial inference starts** — Aspen captures early activations
+3.	**Search activation DB** — find similar past traces
+4.	**Score results** — rank for contextual relevance
+5.	**Select top N memories**
+6.	**Generate recall scaffolds** — e.g., *“Last time this happened, you did X…”*
+7.	**Inject memory note into prompt** as structured guidance
 
 ---
 

@@ -14,4 +14,4 @@ The current AI space is frantic; it’s all velocity, all hype, all noise. Our w
 
 There is a forest to be found in the midst of the freeway.
 
-Meet Aspen at the Calm Edge of Computing.
+**Meet Aspen at the Calm Edge of Computing.**

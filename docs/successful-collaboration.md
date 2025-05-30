@@ -8,7 +8,17 @@
 
 ```
 rocketbro:
-...I wonder if we could kind of start at a higher level of abstraction of just trying to think about trying to find a good way to define clearly what is the result of the process of a human and a language model working together in an ideal world. A lot of times, a lot of interfaces right now, the result is essentially a bunch of chats and often some form of content. So images or drafts of a document or things like that. Is there a higher level of abstraction we could go to that is helpful to kind of clarify the vision for Aspen? Because the goal is to basically make that process of human-AI collaboration, not just as easy as possible, but the best it can be, right? So playing to both the strengths of the human and the different models. What are your thoughts around that?
+...I wonder if we could kind of start at a higher level of abstraction 
+of just trying to think about trying to find a good way to define clearly 
+what is the result of the process of a human and a language model working 
+together in an ideal world. A lot of times, a lot of interfaces right now, 
+the result is essentially a bunch of chats and often some form of content. 
+So images or drafts of a document or things like that. Is there a higher 
+level of abstraction we could go to that is helpful to kind of clarify the 
+vision for Aspen? Because the goal is to basically make that process of human-AI 
+collaboration, not just as easy as possible, but the best it can be, right? 
+So playing to both the strengths of the human and the different models. 
+What are your thoughts around that?
 ```
 
 `gpt-4o:`
